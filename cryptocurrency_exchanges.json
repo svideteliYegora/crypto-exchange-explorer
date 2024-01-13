@@ -1,0 +1,12 @@
+[
+    {
+        "https://api.binance.com/api/v3/ticker/price": {
+            "symbol": "{}{}"
+        }
+    },
+    {
+        "https://api.kucoin.com/api/v1/market/orderbook/level1": {
+            "symbol": "{}-{}"
+        }
+    }
+]
